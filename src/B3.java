@@ -11,7 +11,11 @@ public class B3 {
     branch'i asil branc'e kopyalariz
      */
     public static void main(String[] args) {
+
         System.out.println("main branch degisiklik 1. satir");
         System.out.println("main branch degisiklik 2. satir");
+
+        System.out.println("tugba branchinda ortak classda degisiklik yaptim");
+
     }
 }
