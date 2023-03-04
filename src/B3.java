@@ -10,4 +10,8 @@ public class B3 {
     Calisma sonucunda istenen hedefe ulasailirsek olusturdugumuz
     branch'i asil branc'e kopyalariz
      */
+    public static void main(String[] args) {
+        System.out.println("main branch degisiklik 1. satir");
+        System.out.println("main branch degisiklik 2. satir");
+    }
 }
